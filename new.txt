@@ -1,0 +1,5 @@
+Name - Vadim Kaz
+Age - 26
+Pets - 0
+Salary - 400$
+
